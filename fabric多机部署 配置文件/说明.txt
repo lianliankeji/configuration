@@ -1,0 +1,2 @@
+/root/go/src/github.com/hyperledger/fabric/examples/e2e_cli/scripts/script.sh
+把另外一台机器改成7051 8051
